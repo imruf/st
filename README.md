@@ -18,6 +18,8 @@ TERMMOD Key
     Ctrl+Shift
    
 Actions:
+---
+
     Copy:        Ctrl+Shift+c
     Paste:       Ctrl+Shift+v
     
