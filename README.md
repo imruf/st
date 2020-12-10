@@ -17,23 +17,24 @@ TERMMOD Key
 ---
     Ctrl+Shift
    
-Actions:
+Actions
 ---
 
     Copy:        Ctrl+Shift+c
+    
     Paste:       Ctrl+Shift+v
     
     Color:       Ctrl+Shift+p
     
-    Zoom
+    Zoom:
       - In:      Ctrl+Shift+pgup
       - Out:     Ctrl+Shift+pgdn
       - Reset:   Ctrl+Shift+home
       
-    Scroll
+    Scroll:
       - Up:      Alt+Ctrl+k
       - Down:    Alt+Ctrl+j
     
-    Url
+    Url:
       - Select:  Super+l
       - Open:    Super+u
