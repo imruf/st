@@ -17,20 +17,21 @@ TERMMOD Key
 ---
     Ctrl+Shift
    
-- Copy:                     Ctrl+Shift+c
-- Paste:                    Ctrl+Shift+v
+  
+- Copy:                    Ctrl+Shift+c
+- Paste:                   Ctrl+Shift+v
 
-- Color:                    Ctrl+Shift+p
+- Color:                   Ctrl+Shift+p
 
 - Zoom
-    - In:                   Ctrl+Shift+pgup
-    - Out:                  Ctrl+Shift+pgdn
-    - Reset:                Ctrl+Shift+home
+    - In:                  Ctrl+Shift+pgup
+    - Out:                 Ctrl+Shift+pgdn
+    - Reset:               Ctrl+Shift+home
     
 - Scroll
-    - Up:                   Alt+Ctrl+k
-    - Down:                 Alt+Ctrl+j
+    - Up:                  Alt+Ctrl+k
+    - Down:                Alt+Ctrl+j
 
 - Url
-    - Select:                Super+l
-    - Open:                  Super+u
+    - Select:              Super+l
+    - Open:                Super+u
