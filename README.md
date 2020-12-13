@@ -10,12 +10,9 @@ Keys
 Mod Key
 ---
 
-    Mod4, i.e Super
+    Mod4, i.e Super (Default Modifier)
     
-TERMMOD Key
----
-
-    Ctrl+Shift
+    Ctrl+Shift (TermMod Key)
    
 Actions
 ---
