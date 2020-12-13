@@ -1,28 +1,26 @@
 st - simple terminal
 ---
-st is a simple terminal emulator for X which sucks less.
+ st is a simple terminal emulator for X which sucks less.
 
-
-In This Build Of-st
+Keys
 ---
+ This build of st is set to-
 
-
-Key Bindings
----
 
 Mod Key
 ---
+
     Mod4, i.e Super
     
 TERMMOD Key
 ---
+
     Ctrl+Shift
    
 Actions
 ---
 
     Copy:        Ctrl+Shift+c
-    
     Paste:       Ctrl+Shift+v
     
     Color:       Ctrl+Shift+p
