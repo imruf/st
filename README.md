@@ -10,9 +10,8 @@ Keys
 Mod Key
 ---
 
-    Mod4, i.e Super (Default Mod)
-    
-    Ctrl+Shift (TermMod Key)
+    Default Mod: Super (Mod4)    
+    TermMod:     Ctrl+Shift
    
 Actions
 ---
