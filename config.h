@@ -7,7 +7,7 @@
  */
 
 static char *font = "Comic Mono:bold:pixelsize=16:antialias=true:autohint=true";
-static char *font2[] = { "mononoki Nerd Font:pixelsize=10:antialias=true:autohint=true" };
+static char *font2[] = { "UbuntuMono Nerd Font:pixelsize=10:antialias=true:autohint=true" };
 
 /* 
 static char *font = "Hack:pixelsize=20:antialias=true:autohint=true";
