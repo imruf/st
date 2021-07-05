@@ -6,7 +6,7 @@
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
 
-static char *font = "Comic Mono:bold:pixelsize=16:antialias=true:autohint=true";
+static char *font = "mono:pixelsize=14:antialias=true:autohint=true";
 static char *font2[] = { "UbuntuMono Nerd Font:pixelsize=10:antialias=true:autohint=true" };
 
 /* 
@@ -105,10 +105,36 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.8, alphaUnfocused = 0.7;
+float alpha = 0.9, alphaUnfocused = 0.8;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
+    /* Grubbox Dark */
+"#282828", /*orig #282828 hard contrast: #1d2021 / soft contrast: #32302f */
+"#cc241d",
+"#98971a",
+"#d79921",
+"#458588",
+"#b16286",
+"#689d6a",
+"#a89984",
+"#928374",
+"#fb4934",
+"#b8bb26",
+"#fabd2f",
+"#83a598",
+"#d3869b",
+"#8ec07c",
+"#ebdbb2",
+
+[255] = 0,
+
+"#282828",
+"#ebdbb2",
+"#458588",
+};
+
+static const char *altcolorname[] = {
     /* Solarized Dark */
 "#002b36",  /*  0: black    */
 "#dc322f",  /*  1: red      */
@@ -134,31 +160,6 @@ static const char *colorname[] = {
 "#6c71c4",  /*  5: magenta  */
 };
 
-static const char *altcolorname[] = {
-    /* Grubbox Dark */
-"#282828", /*orig #282828 hard contrast: #1d2021 / soft contrast: #32302f */
-"#cc241d",
-"#98971a",
-"#d79921",
-"#458588",
-"#b16286",
-"#689d6a",
-"#a89984",
-"#928374",
-"#fb4934",
-"#b8bb26",
-"#fabd2f",
-"#83a598",
-"#d3869b",
-"#8ec07c",
-"#ebdbb2",
-
-[255] = 0,
-
-"#282828",
-"#ebdbb2",
-"#458588",
-};
 
 unsigned int defaultfg = 257;
 unsigned int defaultbg = 256;
