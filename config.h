@@ -110,7 +110,7 @@ float alpha = 0.9, alphaUnfocused = 0.8;
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
     /* Grubbox Dark */
-"#282828", /*orig #282828 hard contrast: #1d2021 / soft contrast: #32302f */
+"#32302f", /*orig #282828 hard contrast: #1d2021 / soft contrast: #32302f */
 "#cc241d",
 "#98971a",
 "#d79921",
