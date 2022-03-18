@@ -1,4 +1,4 @@
-st - simple terminal Version:0.8.5
+st - simple terminal Version:0.8.5 up
 ---
  st is a simple terminal emulator for X which sucks less.
 
