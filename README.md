@@ -4,8 +4,8 @@ st - simple terminal Version:0.8.5
  
 Dependecy
 ---
- The default Shell of this build is zsh installed in /usr/bin/zsh directory
- If zsh is not installed or installed in other than /usr/bin/zsh
+ The default Shell of this build is zsh.\
+ If zsh is not installed or installed in other than /usr/bin/zsh\
  edit, comment uncomment
   - static char *shell of config.h
   - static char *shell of config.h
