@@ -108,35 +108,33 @@ float alpha = 1.0, alphaUnfocused = 0.9;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
-    /* Solarized Dark */
-"#002b36",  /*  0: black    */
-"#dc322f",  /*  1: red      */
-"#859900",  /*  2: green    */
-"#b58900",  /*  3: yellow   */
-"#268bd2",  /*  4: blue     */
-"#6c71c4",  /*  5: magenta  */
-"#2aa198",  /*  6: cyan     */
-"#93a1a1",  /*  7: white    */
-"#657b83",  /*  8: brblack  */
-"#dc322f",  /*  9: brred    */
-"#859900",  /* 10: brgreen  */
-"#b58900",  /* 11: bryellow */
-"#268bd2",  /* 12: brblue   */
-"#6c71c4",  /* 13: brmagenta*/
-"#2aa198",  /* 14: brcyan   */
-"#fdf6e3",  /* 15: brwhite  */
+    /* Vim Nightfly */
+"#1d3b53",  /*  0: black    */
+"#fc514e",  /*  1: red      */
+"#a1cd5e",  /*  2: green    */
+"#e3d18a",  /*  3: yellow   */
+"#82aaff",  /*  4: blue     */
+"#c792ea",  /*  5: magenta  */
+"#7fdbca",  /*  6: cyan     */
+"#a1aab8",  /*  7: white    */
+"#7c8f8f",  /*  8: brblack  */
+"#ff5874",  /*  9: brred    */
+"#21c7a8",  /* 10: brgreen  */
+"#ecc48d",  /* 11: bryellow */
+"#82aaff",  /* 12: brblue   */
+"#ae81ff",  /* 13: brmagenta*/
+"#7fdbca",  /* 14: brcyan   */
+"#d6deeb",  /* 15: brwhite  */
 
 [255] = 0,
 
-"#002b36",
-"#93a1a1",
-"#93a1a1",
-"#cb4b16",
-"#d33682",
-"#073642",
-"#586e75",
-"#839496",
-"#eee8d5",
+"#011627",
+"#acb4c2",
+"#eeeeee",
+"#9ca1aa",
+"#080808",
+"#b2ceee",
+"#080808",
 };
 
 static const char *altcolorname[] = {
